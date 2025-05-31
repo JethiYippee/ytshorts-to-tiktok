@@ -40,9 +40,3 @@ A Chrome extension that redirects YouTube Shorts URLs to TikTok for a more enter
 
 - Redirection may not work on embedded Shorts or unusual URL formats.
 - Compatibility with other browser extensions is untested.
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/JethiYippee/ytshorts-to-tiktok/blob/main/README.md) file for details.
